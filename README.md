@@ -79,14 +79,12 @@ The main goal of this project is to manage the blood supply chain between blood 
 
 ## Usage
 
-- Describe how the program / project is going to be used once it is installed. 
-- If it is a command line app, you'll want to give CLI examples:
-
-```bash
-cool-project -arg1 -arg2
-```
-
-- then maybe show a screenshot of  the results :smile:
+- After compeleting installation process with all above liberaries in the project, the web-application open in search enging which hosted at local host.
+- For running the project open project files in Pycharm or any other compitable IDE to complete the task.
+- After that set virtual environment in the project with using anaconda or other inbuilt IDE features. This step helps to install remaining libarires.
+- Now run the project with main.py file. which execute the task on local host. localhost port number is 7892.
+- Project file contain the all main file which are required.
+- The final result, which will represent algorithms in a web application format, will be supplied to you in the end.
 
 ## Support
 
@@ -105,4 +103,5 @@ Many thanks to my adviser Prof. Dr. T Tomesh, of MS in Computer Science departme
 ## Project Status
 
 - I have completed prediction task with 35000 data which include only single city of data with limited diseases. In practical there are several other diseases required blood externeally. So, if we add all diseases with many cities than result may be different but at the end it will help blood banks to manage blood accuratly if they know the total demand with all diseases. Only six diseases data is not sufficient to predict the large volume blood demand in future. 
+- To that end, if anyone else is interested in the same concept as myself, I cordially encourage you to join me in this research and make the model as useful as possible.
 

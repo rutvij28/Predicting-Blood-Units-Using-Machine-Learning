@@ -1,0 +1,11 @@
+References:
+[1] "Flask", Available: https://flask.palletsprojects.com/en/2.0.x/
+[2] Brownlee, J., "How to Develop Your First XGBoost Model in Python", Available: https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/
+[3] "Python 3.9.6 documentation", Available: https://docs.python.org/3/
+[4] "Professional WordPress Themes & Website Templates for any project", Available: https://themeforest.net/
+[5] Brownlee, J., "Extreme Gradient Boosting (XGBoost) Ensemble in Python", Available: https://machinelearningmastery.com/extreme-gradient-boosting-ensemble-in-python/
+[6] "Flask CRUD Application – Create, Retrieve, Update, and Delete", Available: https://github.com/trevortomesh/research-methods-class/blob/main/README.md#manifest
+[7] "HTML: HyperText Markup Language", Available: https://devdocs.io/html/
+[8] "CSS: Cascading Style Sheets", Available: https://developer.mozilla.org/en-US/docs/Web/CSS
+[9] "JavaScript", Available: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[10] Ray, S., "Commonly used Machine Learning Algorithms (with Python and R Codes)", Available: https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/

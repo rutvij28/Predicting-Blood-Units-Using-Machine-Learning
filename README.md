@@ -17,9 +17,7 @@ This is my github repository, which providing all necessary files which needed t
 The main goal of this project is to manage the blood supply chain between blood banks and hospitals greatly. To complete this task machine learning algorithm and flask framework helps to solve this approach. By using the XGBoost algorithm I was able to generate prediction results, and by using the flask framework I was able to provide a better user experience. 
 
 ## Badges
-- ![code](https://img.shields.io/badge/Flask-2.0.1-green)
-- ![code](https://img.shields.io/badge/Python-3.7-green)
-- ![languages](https://img.shields.io/badge/Languages-1-blue)
+![code](https://img.shields.io/badge/Flask-2.0.1-green) ![code](https://img.shields.io/badge/Python-3.7-green) ![languages](https://img.shields.io/badge/Languages-1-blue)
 
 ## Visuals
 
